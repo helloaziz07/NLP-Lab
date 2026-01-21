@@ -1,0 +1,5 @@
+text,label,clean_text,no_stopwords,lemmatized_text,encoded_label,analysis,artificial,data,enjoy,future,intelligence,interesting,popular,programming,python,science,working
+Data science is very interesting!,positive,data science is very interesting,data science interesting,data science interesting,1,0.0,0.0,0.48693426407352264,0.0,0.0,0.0,0.6176143709756019,0.0,0.0,0.0,0.6176143709756019,0.0
+I enjoy working with Python programming,positive,i enjoy working with python programming,enjoy working python programming,enjoy working python programming,1,0.0,0.0,0.0,0.5254727492640658,0.0,0.0,0.0,0.0,0.5254727492640658,0.41428875116588965,0.0,0.5254727492640658
+Artificial intelligence is the future,neutral,artificial intelligence is the future,artificial intelligence future,artificial intelligence future,0,0.0,0.5773502691896257,0.0,0.0,0.5773502691896257,0.5773502691896257,0.0,0.0,0.0,0.0,0.0,0.0
+Python is popular for data analysis,neutral,python is popular for data analysis,python popular data analysis,python popular data analysis,0,0.5552826649411127,0.0,0.43779123108611473,0.0,0.0,0.0,0.0,0.5552826649411127,0.0,0.43779123108611473,0.0,0.0
